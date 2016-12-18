@@ -1,2 +1,2 @@
-Git is a control version.
+Git is a distributed control version.
 Git is free software.
